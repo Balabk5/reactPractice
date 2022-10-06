@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@apideck/file-picker": "^0.7.0",
+    "@craco/craco": "^6.4.5",
+    "@fortawesome/fontawesome-svg-core": "^6.1.2",
+    "@fortawesome/free-solid-svg-icons": "^6.1.2",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "antd": "^4.22.8",
+    "axios": "^0.27.2",
+    "cors": "^2.8.5",
+    "react-bootstrap-icons": "^1.8.4",
+    "react-bootstrap-sidebar-menu": "^2.0.3",
+    "react-router-dom": "^6.3.0"
+  }
+}
